@@ -6,4 +6,7 @@ nota2 = int(input("\nDigite a 2ª nota: "))
 soma = nota1 + nota2
 
 print(f'\nO resultado soma da nota1 {nota1} com a nota 2 {nota2} é = ',soma)
+print('')
+
 # O \n  é para saltar uma linha
+# O print('') é para saltar uma linha no final do código
