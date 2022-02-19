@@ -7,5 +7,6 @@ total = num1 / num2
 
 print(f'\nO resultado da divisão do numero {num1} com o número {num2} é = ',total)
 print('')
+
 # O \n  é para saltar uma linha
 # O print('') é para saltar uma linha no final do código
